@@ -28,7 +28,7 @@
 #  50 : Succeded with changes
 #-----------------------------------------------------------------------
 # Example:
-#   ./create_rancher_stack.py -S Activities
+#   ./create_rancher_stack.py -E Default -S Activities
 #-----------------------------------------------------------------------
 
 
